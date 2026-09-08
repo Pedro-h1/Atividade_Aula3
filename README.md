@@ -80,7 +80,7 @@
 </p>
 
 <p>
-  📸 <a href="#">Foto do site</a>
+  📸 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/netflix.png">Foto do site</a>
 </p>
 
 <p>
@@ -129,7 +129,7 @@
 </p>
 
 <p>
-  📸 <a href="#">Foto do site</a>
+  📸 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/samsung.png">Foto do site</a>
 </p>
 
 <p>
@@ -185,11 +185,11 @@
 </p>
 
 <p>
-  📸 <a href="#">Foto do site - 1</a>
+  📸 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/centauro.png">Foto do site - 1</a>
 </p>
 
 <p>
-  📸 <a href="#">Foto do site - 2</a>
+  📸 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/centauro%202.png">Foto do site - 2</a>
 </p>
 
 <p>
@@ -236,11 +236,11 @@
 </p>
 
 <p>
-  📸 <a href="#">Foto do site - 1</a>
+  📸 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/lipton.png">Foto do site - 1</a>
 </p>
 
 <p>
-  📸 <a href="#">Foto do site - 2</a>
+  📸 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/lipton%202.png">Foto do site - 2</a>
 </p>
 
 <p>
@@ -313,7 +313,7 @@
 
 <div align="center">
   <p>
-    📄 <a href="#">PDF da atividade</a>
+    📄 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/Atividade_TipografiaCores.pdf">PDF da atividade</a>
   </p>
 </div>
 
