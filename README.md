@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=1428A0&text=🎨+ATIVIDADE_AULA3&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Pesquisa+de+Tipografia+e+Cores&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=1428A0&text=🎨+ATIVIDADE+—+AULA3&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Pesquisa+de+Tipografia+e+Cores&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=🎨+Sobre+a+atividade" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=🎨+Sobre+a+atividade" /></div>
 
 <div align="center"><p>📚 Atividade desenvolvida no <strong>SENAI</strong> para o componente de <strong>Tipografia e Cores</strong>, da Unidade Curricular de <strong>Linguagem de Marcação</strong>.</p><p>🔎 O objetivo da pesquisa foi analisar sites reais e identificar características relacionadas à <strong>tipografia</strong>, <strong>cores</strong>, <strong>contraste</strong>, <strong>hierarquia visual</strong> e <strong>experiência do usuário (UX)</strong>.</p></div>
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=🎯+Objetivo" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=🎯+Objetivo" /></div>
 
 <div align="center"><p>🖥️ Pesquisar e analisar <strong>4 sites</strong>, sendo dois exemplos que apresentam boas práticas de design e dois que apresentam problemas relacionados à interface e experiência do usuário.</p><p>📌 Também foram analisadas as <strong>vantagens</strong>, <strong>desvantagens</strong> e possíveis soluções para os problemas encontrados em cada site.</p></div>
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=✅+Exemplos+de+Bons+Sites" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=✅+Exemplos+de+Bons+Sites" /></div>
 
 <div align="center">
 <p><strong>📺 Netflix</strong></p>
@@ -26,7 +26,7 @@
 <p>📸 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/netflix.png">Foto do site</a></p>
 <p>🔗 <a href="https://www.netflix.com/br/">Acessar o site da Netflix</a></p>
 
----
+#
 
 <p><strong>📱 Samsung</strong></p>
 <p><strong>Responsável:</strong> Miguel Caparroz Neves — Nº 20</p>
@@ -41,7 +41,7 @@
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=❌+Exemplos+de+Sites+com+Problemas" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=❌+Exemplos+de+Sites+com+Problemas" /></div>
 
 <div align="center">
 <p><strong>👟 Centauro</strong></p>
@@ -55,7 +55,7 @@
 <p>📸 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/centauro%202.png">Foto do site - 2</a></p>
 <p>🔗 <a href="https://www.centauro.com.br">Acessar o site da Centauro</a></p>
 
----
+#
 
 <p><strong>🍋 Lipton</strong></p>
 <p><strong>Responsável:</strong> Pedro Henrique Prandwiski Borges — Nº 22</p>
@@ -71,9 +71,10 @@
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=🔎+Critérios+Analisados" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=🔎+Critérios+Analisados" /></div>
 
 <div align="center">
+
 | 🎨 Critério | 🔎 O que foi analisado |
 | :---: | :--- |
 | **Tipografia** | Tipo, tamanho, peso, legibilidade e hierarquia das fontes. |
@@ -83,21 +84,24 @@
 | **UX** | Facilidade de navegação, compreensão e interação. |
 | **Poluição visual** | Quantidade e organização dos elementos apresentados. |
 | **Layout** | Distribuição, alinhamento e espaçamento dos componentes. |
+
 </div>
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=💡+Conclusão" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=💡+Conclusão" /></div>
 
 <div align="center"><p>📌 A pesquisa mostrou, na prática, como <strong>tipografia, cores, contraste, hierarquia e organização visual</strong> influenciam diretamente a experiência do usuário.</p><p>🎯 Os exemplos analisados também demonstram que um site não precisa apenas ter uma aparência bonita. É necessário garantir que os elementos estejam organizados, sejam legíveis e facilitem a navegação.</p><p>💻 Da mesma forma, problemas como imagens quebradas, excesso de elementos, informações confusas e pop-ups muito invasivos podem prejudicar a experiência, mesmo quando o site possui uma identidade visual definida.</p></div>
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=👥+Participantes" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=👥+Participantes" /></div>
 
 <div align="center"><p>👨‍💻 <strong>Gustavo Shimming</strong> — Nº 11</p><p>👨‍💻 <strong>Miguel Caparroz Neves</strong> — Nº 20</p><p>👨‍💻 <strong>Pedro Henrique Prandwiski Borges</strong> — Nº 22</p><p>👨‍💻 <strong>Victor Hugo Franck Voltarelli</strong> — Nº 28</p></div>
 
 ---
+
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=📁+PDF+da+Atividade" /></div>
 
 <div align="center"><p>📄 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/Atividade_TipografiaCores.pdf">PDF da atividade</a></p></div>
 
