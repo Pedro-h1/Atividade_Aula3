@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:F06529&text=🎨+ATIVIDADE+—+AULA3&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Pesquisa+de+Tipografia+e+Cores&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1B5A,100:1428A0&text=🎨+ATIVIDADE+—+AULA3&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Pesquisa+de+Tipografia+e+Cores&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=🎨+Sobre+a+atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=%F0%9F%8E%A8+Sobre+a+atividade" />
 </div>
 <div align="center">
     <p>📚 Atividade desenvolvida no <strong>SENAI</strong> para o componente de <strong>Tipografia e Cores</strong>, da Unidade Curricular de <strong>Linguagem de Marcação</strong>.</p>
@@ -12,17 +12,17 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=🎯+Objetivo" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AF+Objetivo" />
 </div>
 <div align="center">
     <p>🖥️ Pesquisar e analisar <strong>4 sites</strong>, sendo dois exemplos que apresentam boas práticas de design e dois que apresentam problemas relacionados à interface e experiência do usuário.</p>
-    <p>📌 Também foram analisadas as <strong>vantagens</strong>, <strong>desvantagens</strong> e possíveis soluções para os problemas encontrados em cada site.</p>
+    <p>Também foram analisadas as <strong>vantagens</strong>, <strong>desvantagens</strong> e possíveis soluções para os problemas encontrados em cada site.</p>
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=✅+Exemplos+de+Bons+Sites" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=%E2%9C%85+Exemplos+de+Bons+Sites" />
 </div>
 <div align="center">
     <p><strong>📺 Netflix</strong>
@@ -54,7 +54,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=❌+Exemplos+de+Sites+com+Problemas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=%E2%9D%8C+Exemplos+de+Sites+com+Problemas" />
 </div>
 <div align="center">
     <p><strong>👟 Centauro</strong>
@@ -91,7 +91,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=🔎+Critérios+Analisados" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=%F0%9F%94%8E+Crit%C3%A9rios+Analisados" />
 </div>
 <div align="center">
 
@@ -110,18 +110,18 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=💡+Conclusão" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=%F0%9F%92%A1+Conclus%C3%A3o" />
 </div>
 <div align="center">
-    <p>📌 A pesquisa mostrou, na prática, como <strong>tipografia, cores, contraste, hierarquia e organização visual</strong> influenciam diretamente a experiência do usuário.</p>
-    <p>🎯 Os exemplos analisados também demonstram que um site não precisa apenas ter uma aparência bonita. É necessário garantir que os elementos estejam organizados, sejam legíveis e facilitem a navegação.</p>
+    <p>A pesquisa mostrou, na prática, como <strong>tipografia, cores, contraste, hierarquia e organização visual</strong> influenciam diretamente a experiência do usuário.</p>
+    <p>Os exemplos analisados também demonstram que um site não precisa apenas ter uma aparência bonita. É necessário garantir que os elementos estejam organizados, sejam legíveis e facilitem a navegação.</p>
     <p>💻 Da mesma forma, problemas como imagens quebradas, excesso de elementos, informações confusas e pop-ups muito invasivos podem prejudicar a experiência, mesmo quando o site possui uma identidade visual definida.</p>
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=👥+Participantes" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=%F0%9F%91%A5+Participantes" />
 </div>
 <div align="center">
     <p>👨‍💻 <strong>Gustavo Shimming</strong> — Nº 11</p>
@@ -133,12 +133,12 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📁+PDF+da+Atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1428A0&center=true&vCenter=true&width=750&lines=%F0%9F%93%81+PDF+da+Atividade" />
 </div>
 <div align="center">
     <p>📄 <a href="https://github.com/Pedro-h1/Atividade_Aula3/blob/main/assets/Atividade_TipografiaCores.pdf">PDF da atividade</a>
     </p>
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F06529,100:E34F26&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1428A0,100:0B1B5A&animation=fadeIn" width="100%" />
 </div>
